@@ -1,0 +1,8 @@
+# Node.js
+api/node_modules/
+api/package-lock.json
+
+# C++ Binaries
+titandb_server
+*.o
+*.out

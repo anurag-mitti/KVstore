@@ -1,0 +1,11 @@
+{
+  "name": "titandb-express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.22.3"
+  },
+  "devDependencies": {
+    "autocannon": "^7.12.0"
+  }
+}
